@@ -1,0 +1,2 @@
+Adding function
+a+b = c
