@@ -1,0 +1,3 @@
+Subtract function
+
+a-b = c
